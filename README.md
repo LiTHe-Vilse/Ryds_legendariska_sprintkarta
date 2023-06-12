@@ -11,6 +11,10 @@ Sprintkarta över Ryd
 
 - **SÖ**-delen: Oskar Svahn,
 - **NV**-delen: Jesper Sjöblom
+
+**Revederingar**
+- Inför NSM Reviderasde **SÖ**-delen och Rydsskogens södra del ritades till inför NSM. Kartan anslöts med norra delen av sprintkartan över universitetet. Utfört av Oskar Svahn och Henrik Eklund.
+- Inför LOKs Sprint-KM 2023 Nybyggt område av Victortia hem ritades till. Utfört av Henrik Eklund.
   
 Kartan finns även på [Omaps](https://www.omaps.net/se?id=61085).
 
